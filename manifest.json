@@ -12,8 +12,8 @@
     },
     {
       "path": "data/db/C_DropItem.ini",
-      "hash": "7c69dbac755d0ec399228ed25c6348e2f8cecb24bb706b2ce3ace4ed2e0b49d3",
-      "size": 3697973
+      "hash": "5be6de0fdd70694c457ccd23cd6140c4c5dfbd36b925670c9db0a691f45825d7",
+      "size": 1996629
     },
     {
       "path": "data/db/C_Enchant.ini",
@@ -27,8 +27,8 @@
     },
     {
       "path": "data/db/C_Item.ini",
-      "hash": "30067d3c12c656d6ca039b0a0b60fcd94f3f5a681e6de68bb5803dc045b01c2d",
-      "size": 8970818
+      "hash": "f1d5222dda9944f7cce868462bd57e13fb31d3f7518b8f7229af5d84c2ea6528",
+      "size": 10189963
     },
     {
       "path": "data/db/C_ItemExchange.ini",
