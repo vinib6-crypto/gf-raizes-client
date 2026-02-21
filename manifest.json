@@ -12,8 +12,8 @@
     },
     {
       "path": "data/db/C_DropItem.ini",
-      "hash": "4f6698206c955a5fa8d002922fe2d820e31e63bce60fb54be0c33b462dfaaa65",
-      "size": 2003562
+      "hash": "449fd889a5b45be599be733e9faa0af310f6910175f879c3b9f3977c418f42a6",
+      "size": 4397450
     },
     {
       "path": "data/db/C_Enchant.ini",
@@ -27,8 +27,8 @@
     },
     {
       "path": "data/db/C_Item.ini",
-      "hash": "e8dfd6f34c0e17e0628aaf995c499e07c4fe598902cbc294abdcc39bc91e66ea",
-      "size": 10189640
+      "hash": "465a546537c6a2f347fd881c4be69f2f6f2f6efe17e9a21c10f950cc0fba65f3",
+      "size": 9435401
     },
     {
       "path": "data/db/C_ItemExchange.ini",
@@ -41,9 +41,19 @@
       "size": 5360157
     },
     {
+      "path": "data/db/C_Level.ini",
+      "hash": "568cc042b5dfd941294efe371c7a65a73c5758cf8bcb7b4da60b84e49e5903c3",
+      "size": 21511
+    },
+    {
       "path": "data/db/C_Mission.ini",
       "hash": "c3f4144e78d9a4d4646f9051f291544e3a86c3951f831ea368ea7182ac80c6bb",
       "size": 1558723
+    },
+    {
+      "path": "data/db/C_Monster.ini",
+      "hash": "67d44a1ef98ce9a817288bd84bf49d543ed57aae5b411ae0d7972802eb9caf32",
+      "size": 1329913
     },
     {
       "path": "data/db/C_Node.ini",
