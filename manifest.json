@@ -57,8 +57,8 @@
     },
     {
       "path": "data/db/C_Node.ini",
-      "hash": "aa63fb192c9c855db0853d0c2bf91755d7ebcd490969a878bb9160c34529b6c5",
-      "size": 97847
+      "hash": "b7aad32052b746b6d863ec55eba315046b4933b5b6b6f11e00a677103691f2a0",
+      "size": 97818
     },
     {
       "path": "data/db/C_Npc.ini",
@@ -79,6 +79,16 @@
       "path": "data/db/RideList.ini",
       "hash": "5f9b9e2b86f2bed738eb7c264a0b31ed0a67b5f20963cd3f7d42549412912b28",
       "size": 33843
+    },
+    {
+      "path": "data/db/S_Monster.ini",
+      "hash": "4ddd2cd2469647d8e245697e3843822a52e8e7d5e6fc159dfe06102a52c25dd2",
+      "size": 1668960
+    },
+    {
+      "path": "data/db/S_Node.ini",
+      "hash": "72f8b13867670d4485dd2501298f7c9159000d0144c07b1bd91def78bc1ee5f7",
+      "size": 97834
     },
     {
       "path": "data/scene/S100.ini",
