@@ -12,8 +12,8 @@
     },
     {
       "path": "data/db/C_DropItem.ini",
-      "hash": "d40b09781c2b22c1c13adc983178c5bdafb2c6cb98a2e9ab809ceb430ae47b35",
-      "size": 1996773
+      "hash": "7c69dbac755d0ec399228ed25c6348e2f8cecb24bb706b2ce3ace4ed2e0b49d3",
+      "size": 3697973
     },
     {
       "path": "data/db/C_Enchant.ini",
@@ -79,16 +79,6 @@
       "path": "data/db/RideList.ini",
       "hash": "5f9b9e2b86f2bed738eb7c264a0b31ed0a67b5f20963cd3f7d42549412912b28",
       "size": 33843
-    },
-    {
-      "path": "data/db/S_Monster.ini",
-      "hash": "4ddd2cd2469647d8e245697e3843822a52e8e7d5e6fc159dfe06102a52c25dd2",
-      "size": 1668960
-    },
-    {
-      "path": "data/db/S_Node.ini",
-      "hash": "72f8b13867670d4485dd2501298f7c9159000d0144c07b1bd91def78bc1ee5f7",
-      "size": 97834
     },
     {
       "path": "data/scene/S100.ini",
