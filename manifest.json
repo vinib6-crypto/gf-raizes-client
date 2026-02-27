@@ -17,8 +17,8 @@
     },
     {
       "path": "data/db/C_Enchant.ini",
-      "hash": "fc2090424d05e7a44534154f4a0a8c73e596543496c07670513410449192e725",
-      "size": 6671926
+      "hash": "6583b17118cc2fc4936c666747ba79097cc5823f0a7cb7073a4b39019d33ade3",
+      "size": 5688081
     },
     {
       "path": "data/db/C_EquipSet.ini",
@@ -27,8 +27,8 @@
     },
     {
       "path": "data/db/C_Item.ini",
-      "hash": "9d56a386c860ab2e51fab659eef94621b08424aa7d7a0ba1058796a0c302ad4f",
-      "size": 8979594
+      "hash": "de853ebfa6b998783325146585e9c91d344c74243363a4da6ad83d41c6b7cb42",
+      "size": 8979603
     },
     {
       "path": "data/db/C_ItemExchange.ini",
@@ -37,8 +37,8 @@
     },
     {
       "path": "data/db/C_ItemMall.ini",
-      "hash": "f8b64e55ae2f704a7860251e4f1c8f0f8302dbd3685eb2b2dc427835513a7174",
-      "size": 5360157
+      "hash": "7a6fa617022de40f74b871531dae7482dc69737ac4e8557b3059535f829699a5",
+      "size": 5610462
     },
     {
       "path": "data/db/C_Level.ini",
@@ -67,8 +67,8 @@
     },
     {
       "path": "data/db/C_Store.ini",
-      "hash": "9304b7bf78d2ffa11df9af6d897bff66a9176a59209fc4d08d2c1f5c85d90f5f",
-      "size": 266922
+      "hash": "56c105a3be7b250bd8b6f248be27af5463a40fc1b25415e40fa62b7e80e2a9ac",
+      "size": 266736
     },
     {
       "path": "data/db/C_Title.ini",
