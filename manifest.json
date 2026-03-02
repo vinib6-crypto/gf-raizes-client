@@ -1181,6 +1181,56 @@
       "size": 640
     },
     {
+      "path": "UI/uiicon/F0164.dds",
+      "hash": "f916d5d7fea54026927f70be8efd3c6545d897029a6bc25493575b7492932328",
+      "size": 640
+    },
+    {
+      "path": "UI/uiicon/map001.dds",
+      "hash": "8e152d2f66205b399cfb57aafc556c454a297d3314b0c61acb232c482efa3d51",
+      "size": 640
+    },
+    {
+      "path": "UI/uiicon/map002.dds",
+      "hash": "5d98a175d1a0236eefb70cb70a98e015f5a523d07e45a5b68cfdea9ec99dc0d1",
+      "size": 200
+    },
+    {
+      "path": "UI/uiicon/map005.dds",
+      "hash": "6387fc442314f3f6463adbe1d076e34bc3366941bd1f8809e139a28bcd86de43",
+      "size": 256
+    },
+    {
+      "path": "UI/uiicon/map015.dds",
+      "hash": "7c4e78e015ec8fa5d0cf9d9c247a3f329cf23b51c20230561d9fc12d045cee58",
+      "size": 256
+    },
+    {
+      "path": "UI/uiicon/map024.dds",
+      "hash": "8dc220770e081d1bfca10829b31ae1ba3eba82a2825963badadf48ed85de797f",
+      "size": 256
+    },
+    {
+      "path": "UI/uiicon/map028.dds",
+      "hash": "6387fc442314f3f6463adbe1d076e34bc3366941bd1f8809e139a28bcd86de43",
+      "size": 256
+    },
+    {
+      "path": "UI/uiicon/map032.dds",
+      "hash": "5ad5d576906d33e914a4dde0e9b9f118bc20abaf87c401c9f935a0618af1671c",
+      "size": 640
+    },
+    {
+      "path": "UI/uiicon/map034.dds",
+      "hash": "f9f62da383b279783ba68a77b66ed27604375222847e428a2869813a43b3f0e6",
+      "size": 640
+    },
+    {
+      "path": "UI/uiicon/mission05.dds",
+      "hash": "8836f4d3d0a96c55a0954e8a934dc7975225a97092a88b0d6e5aeca12383dbc9",
+      "size": 2176
+    },
+    {
       "path": "UI/uiicon/ZG6402.dds",
       "hash": "f01a498e78e98e769aad08522a6495daaaa501fa4d0233aa9679df7cf294ec12",
       "size": 640
