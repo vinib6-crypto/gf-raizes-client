@@ -2,8 +2,8 @@
   "files": [
     {
       "path": "data/db/C_Collection.ini",
-      "hash": "01267a4669a0996ef2973ba46e966af1842bd0bb14c4e238ba1ed292c8305f93",
-      "size": 513973
+      "hash": "67e3ce45acedd340fd0fdb3fa780f7f11ecb43dd651744ab2b4c48c46b393f58",
+      "size": 592982
     },
     {
       "path": "data/db/C_DailyAwards.ini",
@@ -67,8 +67,8 @@
     },
     {
       "path": "data/db/C_Npc.ini",
-      "hash": "a120c379bf1f148d31a53c4b1450cf7f6846d2989c6226b5b29a3d44f7dc296b",
-      "size": 890485
+      "hash": "be682dc9ee4f29a47976b138b16991529373587277f2261a051fdc927e9962a2",
+      "size": 864226
     },
     {
       "path": "data/db/C_Store.ini",
