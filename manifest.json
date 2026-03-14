@@ -67,8 +67,8 @@
     },
     {
       "path": "data/db/C_Npc.ini",
-      "hash": "22da4c8fb55613ef8c365e9823bd93b167bf2c754c5ae2afec28599077891929",
-      "size": 857036
+      "hash": "19544da50499ef6cf28664e1bcbfd89d46f710edf9315631db84cb454ac85a69",
+      "size": 864228
     },
     {
       "path": "data/db/C_StarReward.ini",
@@ -787,8 +787,8 @@
     },
     {
       "path": "data/Translate_PT/T_Item.ini",
-      "hash": "d25855b52131f89631b25ff2190c141a335b0efe0ea0e8b0c34acba2cd27bfa7",
-      "size": 6007146
+      "hash": "dd6fd7b6546334f2cf98aee0934e43b0f1bd95d2b50e02ba81ce68ef108ccd35",
+      "size": 5710984
     },
     {
       "path": "data/Translate_PT/T_ItemCombo.ini",
