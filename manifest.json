@@ -2,8 +2,8 @@
   "files": [
     {
       "path": "data/db/C_Collection.ini",
-      "hash": "941bf0e95acf054dffeb0f0939451ea98b88291b7fae8c473713a30d0756e7d1",
-      "size": 585145
+      "hash": "3f055ff7fc68c3b176c51b5c91352aeb5f052de87c17419c19d5224513eeadcf",
+      "size": 513306
     },
     {
       "path": "data/db/C_DailyAwards.ini",
@@ -32,8 +32,8 @@
     },
     {
       "path": "data/db/C_Item.ini",
-      "hash": "ba634bb4e8034c12ea2abde8764d26a1258a60e3a460415e9df3d34239c78adb",
-      "size": 8979603
+      "hash": "2ac2f1f27d4c1392abfc6db15940d6145e1475db74be1905d20f34f445c81e78",
+      "size": 8979879
     },
     {
       "path": "data/db/C_ItemExchange.ini",
@@ -57,8 +57,8 @@
     },
     {
       "path": "data/db/C_Monster.ini",
-      "hash": "8ac1c11aa04efba79377c99f08b17cbe05a7a17cf2d76e125013010a6ad75c66",
-      "size": 1330733
+      "hash": "c6763b52bcd2c16e95491e93a7dfbf7e5a0db10fda67b479b51a6ef9e6f57078",
+      "size": 1668960
     },
     {
       "path": "data/db/C_Node.ini",
@@ -67,13 +67,18 @@
     },
     {
       "path": "data/db/C_Npc.ini",
-      "hash": "a470bc3f4a023d49d3fe4ef3e1194481739a3711eafc603092e271bccc14f7c6",
+      "hash": "22da4c8fb55613ef8c365e9823bd93b167bf2c754c5ae2afec28599077891929",
       "size": 857036
     },
     {
+      "path": "data/db/C_StarReward.ini",
+      "hash": "1708ab60e53268b64c5e4aa80dd36a8f4ac48dcb28d23e40aa4d64b71a629db2",
+      "size": 8290
+    },
+    {
       "path": "data/db/C_Store.ini",
-      "hash": "95aaf597fb565004fc218192eeed5fe7e67596163153690ca68651e032cb1155",
-      "size": 264182
+      "hash": "2f1dae0522f20e3ad8daceb8ed7f1972a08eaaffb30134f224c4888b21abd279",
+      "size": 264174
     },
     {
       "path": "data/db/C_Title.ini",
