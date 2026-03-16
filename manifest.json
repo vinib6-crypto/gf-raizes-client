@@ -32,8 +32,8 @@
     },
     {
       "path": "data/db/C_Item.ini",
-      "hash": "8d50771c100a8339f5ae11f31ec544e6959bb3182bec77af8a9612228059126c",
-      "size": 8979881
+      "hash": "913c38913aed8dd907a1ea9f996ed8324a253e060db1b78a7dcd96ba0da283dd",
+      "size": 8979883
     },
     {
       "path": "data/db/C_ItemExchange.ini",
@@ -67,7 +67,7 @@
     },
     {
       "path": "data/db/C_Npc.ini",
-      "hash": "19544da50499ef6cf28664e1bcbfd89d46f710edf9315631db84cb454ac85a69",
+      "hash": "8ca4c28efabbbb69865c1efa08d5ff1262fdf53e5fb74c8a41a3cf3ab93128fc",
       "size": 864228
     },
     {
